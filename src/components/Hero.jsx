@@ -8,7 +8,7 @@ import {
 } from "react-icons/fa";
 import { SiProducthunt, SiReact, SiWebpack, SiVite } from "react-icons/si";
 import TypeWriter from "./TypeWriter";
-import { name, role, github, linkedin } from "../utils/constant";
+import { name, role, github, linkedin, resume } from "../utils/constant";
 
 const Hero = () => {
   const socialLinks = [
@@ -30,8 +30,7 @@ const Hero = () => {
   ];
 
   const handleDownloadCV = () => {
-    // You can replace this with actual CV download link
-    window.open(linkedin, "_blank");
+    window.open(resume, "_blank");
   };
 
   return (

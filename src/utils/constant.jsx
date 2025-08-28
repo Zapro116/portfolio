@@ -9,6 +9,8 @@ export const youtube = "https://www.youtube.com/Zapro116";
 export const tiktok = "https://www.tiktok.com/@Zapro116";
 export const pinterest = "https://www.pinterest.com/Zapro116/";
 export const reddit = "https://www.reddit.com/user/Zapro116";
+export const resume =
+  "https://drive.google.com/file/d/19mt1d4ezR3P2aaumF18v4DPAdH3QVQ-r/view?usp=drive_link";
 
 export const name = "Hariom Chaurasia";
 export const role = "Software Development Engineer";
